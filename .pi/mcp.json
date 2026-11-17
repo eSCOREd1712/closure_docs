@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "ssh-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ssh-mcp",
+        "--host=103.54.18.66",
+        "--port=2200",
+        "--user=super",
+        "--key=/Users/vladimir/.ssh/id_ed25519",
+        "--timeout=1300000",
+        "--maxChars=none"
+      ],
+      "directTools": false
+    }
+  }
+}
