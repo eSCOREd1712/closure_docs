@@ -1,0 +1,9 @@
+.git
+.gitignore
+.pi
+node_modules
+*.log
+.DS_Store
+README.md
+deploy.sh
+deploy/
